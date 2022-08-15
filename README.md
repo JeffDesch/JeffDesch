@@ -1,7 +1,7 @@
 <h1 align="center">Greetings traveller, I'm Jeff Desch</h1>
-<h3 align="center">An aspiring data scientist and machine learning engineer</h3>
+<h3 align="center">Data scientist, machine learning engineer, and aspiring AI-wrangler</h3>
 
-- 🌱 I’m currently learning **Computer vision techniques**
+- 🌱 I’m currently learning **computer vision techniques for object classification**
 
 - 📫 How to reach me **jeff.desch@gmail.com**
 
