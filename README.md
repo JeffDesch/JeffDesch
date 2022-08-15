@@ -1,4 +1,4 @@
-<h1 align="center">Greetings traveller, I'm Jeff Desch</h1>
+<h1 align="center">Greetings traveller, I'm Jeffrey Desch</h1>
 <h3 align="center">Data scientist, machine learning engineer, and aspiring AI-wrangler</h3>
 
 - 🌱 I’m currently learning **computer vision techniques for object classification**
