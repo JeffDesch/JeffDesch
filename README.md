@@ -3,11 +3,11 @@
 <h1 align="center">Greetings traveller, I'm Jeffrey Desch</h1>
 <h3 align="center">Data scientist, machine learning engineer, and AI-wrangler</h3>
 
-- 🌱 I’m currently learning **computer vision techniques for object classification**
+- 🌱 I’m currently working on: **AI-integrated programming techniques**
 
-- 📫 How to reach me **jeff.desch@gmail.com**
+- 📫 How to reach me: **jeff.desch@gmail.com**
 
-- ⚡ Fun fact **I have a shockingly good memory for obscure tabletop game rules**
+- ⚡ Fun fact: **I have a shockingly good memory for obscure tabletop game rules**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
